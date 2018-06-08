@@ -1,0 +1,11 @@
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/bin/Debug/netcoreapp2.0/QuickStartWebApi.deps.json
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/bin/Debug/netcoreapp2.0/QuickStartWebApi.runtimeconfig.json
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/bin/Debug/netcoreapp2.0/QuickStartWebApi.runtimeconfig.dev.json
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/bin/Debug/netcoreapp2.0/QuickStartWebApi.dll
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/bin/Debug/netcoreapp2.0/QuickStartWebApi.pdb
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.csprojResolveAssemblyReference.cache
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.csproj.CoreCompileInputs.cache
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.AssemblyInfoInputs.cache
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.AssemblyInfo.cs
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.dll
+/Users/martinjude/Projects/QuickStartWebApi/QuickStartWebApi/obj/Debug/netcoreapp2.0/QuickStartWebApi.pdb
